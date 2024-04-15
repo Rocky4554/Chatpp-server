@@ -159,6 +159,7 @@
     "url-parse-lax": "^3.0.0",
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2",
+    "webtransport": "^1.0.10",
     "widest-line": "^3.1.0",
     "wrap-ansi": "^7.0.0",
     "wrappy": "^1.0.2",
